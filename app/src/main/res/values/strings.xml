@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pictures</string>
+    <string name="network_error">出错啦！没妹子看啦。。。。</string>
+    <string name="load_more">太阳跑得太快，我快渴死了！！！</string>
+    <string name="no_more">没有更多了。。。</string>
+    <string name="error_layout">出错了，肿么办？</string>
+    <string name="meizhi">妹纸</string>
+</resources>
